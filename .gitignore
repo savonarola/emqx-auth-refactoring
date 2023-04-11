@@ -1,0 +1,12 @@
+__latexindent_temp.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.bcv
+*.snm
+*.toc
+*.nav
+*.vrb
